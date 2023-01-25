@@ -1,4 +1,4 @@
-Project Description
+## Project Description
 [Credits: Selçuk Artut]
 
 Drawing a Persian Orosi Glass Islamic Geometric Pattern
