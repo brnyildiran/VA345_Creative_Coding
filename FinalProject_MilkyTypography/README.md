@@ -16,3 +16,5 @@ Project Link: https://editor.p5js.org/brnyildiran/sketches/kVkmYy9Uy
 features a new typeface, "MilkyType," that is inspired by the movement and patterns of milk as it splashes and flows. This typeface
 can be used in headlines, titles, and short phrases and it is perfect for creating eye-catching designs in advertising, packaging, ,
 and branding. "Milky Typography" is an exciting and innovative project that pushes the boundaries of typography and design.
+
+![MilkyType (2)](https://user-images.githubusercontent.com/78401458/214581360-f12dccf3-1f83-4581-9d89-3469e7680cbb.png)
